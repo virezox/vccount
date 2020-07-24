@@ -1,3 +1,3 @@
-# vccount
+# Vccount
 
 PWA Money Tracking App
